@@ -9,4 +9,4 @@
 ### careers
 
 - My Huntr board: https://app.huntr.co/app/track/boards/5ce832ee9f2704000f943d01/board
-- My copy of Gdoc: https://app.huntr.co/app/track/boards/5ce832ee9f2704000f943d01/board
+- My copy of GoogleDoc: https://app.huntr.co/app/track/boards/5ce832ee9f2704000f943d01/board
