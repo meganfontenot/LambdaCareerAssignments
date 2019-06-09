@@ -1,4 +1,4 @@
-# LambdaCareerAssignments
+# Lambda Career Assignments
 
 
 |   [**Megan Fontenot**](https://www.linkedin.com/in/megan-fontenot-983394152/)  |
