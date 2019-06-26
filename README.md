@@ -9,7 +9,7 @@
 
 ## Motivitation 
 
-This repo is to serve as a hub for all Career Assignments/Resources/Notes for CSPT2.
+This repo is to serve as a hub for all Career Assignments/Resources/Notes for CS PT2.
 
 
 
