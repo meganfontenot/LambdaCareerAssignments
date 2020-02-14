@@ -1,3 +1,5 @@
-Draft: Dear Hiring Panel, 
+Draft: 
+
+Dear Hiring Panel, 
 
 Please accept the details of my work experience in relation to the requirements for the above job position. I am an ambitious and highly motivated professional with rich experience providing comprehensive customer support and ensuring excellent service delivery. My solid background in managing positive relationships, automating work processes and streamlining work procedures has allowed me to hone my skills that can be effectively utilized by your institution. I’m eager to grow and learn. The value that I bring to your organization can be best summarized as follows:
