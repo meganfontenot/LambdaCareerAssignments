@@ -1,4 +1,2 @@
 Draft: 
 
-Dear Hiring Panel, 
-
