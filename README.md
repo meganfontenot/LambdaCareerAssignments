@@ -9,7 +9,6 @@
 
 ## Motivitation 
 
-This repo is to serve as a hub for all Career Assignments/Resources/Notes.
 
 
 
